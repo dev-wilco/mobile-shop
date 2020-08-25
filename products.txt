@@ -4,5 +4,3 @@ LG
 
 Apple
 Samsung
-Vivo
-Mi
