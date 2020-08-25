@@ -1,3 +1,7 @@
 Nokia
 Moto
 LG
+
+Apple
+Samsung
+
